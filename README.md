@@ -18,7 +18,12 @@ to create a database set of images over their and to retrive those to match with
 After doing all these step simply put your images which you wants to be in the database and run the code.
 
 ## Here are some Output check them all: -
+
+Picture 1
 ![1](1.png)
 
+Picture 2
 ![2](2.png)
 
+CSV File 
+![](csv.png)
