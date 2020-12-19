@@ -19,3 +19,6 @@ After doing all these step simply put your images which you wants to be in the d
 
 ## Here are some Output check them all: -
 ![1](1.png)
+
+![2](2.png)
+
